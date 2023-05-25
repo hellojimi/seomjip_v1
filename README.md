@@ -1,18 +1,19 @@
-# 제주도 펜션 예약 플랫폼 섬집
+# 섬집
+제주도 펜션 예약 사이트
+#### 호스팅 사이트 : http://itwillbs8.cafe24.com/sumzip/Main.me
+- 프로젝트 기간 : 1월 30일 ~ 2월 28일
+- 역할 : 담당 페이지 백엔드/프론트엔드 개발, PPT
+- 기능 : 리뷰 페이지
 
-### 호스팅 사이트 : http://itwillbs8.cafe24.com/sumzip/Main.me
-#### 개발 도구 : Eclipse, Workbench
-#### 사용언어 : Java(OpenJDK 11.0.2), MySQL(8.0.17), JavaScript
-#### 라이브러리 : jQuery(3.6.4)
-#### 웹어플리케이션 도구 : JSP MVC Model2
+## 개발환경
+- 개발 도구 : Eclipse, Workbench
+- 서버 : Apache Tomcat 9.0
+- 언어 : Java(OpenJDK 11.0.2), HTML5/CSS3, JavaScript ES6
+- DB : MySQL(8.0.17)
+- 라이브러리 : jQuery(3.6.3)
+- 웹 어플리케이션 도구 : JSP(MVC model2)
 
----
-
-#### 프로젝트 기간 : 1월 30일 ~ 2월 28일
-#### 역할 : PPT
-#### 담당 기능 : 리뷰 페이지
-
-### 🛠개발 코드💻
+## 🛠개발 코드💻
 
 #### 리뷰 페이지
 * Model
